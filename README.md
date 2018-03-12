@@ -1,8 +1,7 @@
 # Mobile-Trip-Assistant
-An Android app for Pittsburgh Transit Service providing trip planning and bus tracking services for bus riders
 ---------
 
-A Trip Assistant app for PAAC.
+An Android app for Pittsburgh Transit Service providing trip planning and bus tracking services for bus riders
 
 ### Project Architecture
 
